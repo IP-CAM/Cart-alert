@@ -2,7 +2,7 @@ Supported OpenCart Versions:
 ================
 2.x versions
 
-Demo <a href=http://opencart.ostwork.com/opencart2.1/
+<a href=http://opencart.ostwork.com/opencart2.1/>Demo</a>
 
 Cart Alert for opencart is a well thought out and excellently made module that allow an admin to send emails for those customers who have products in there cart. An alert mail template with those products will be send regularly as per admin setting for number of days.
 
